@@ -1,6 +1,9 @@
 
 # react-native-steam-card
 
+## Demo in android and ios
+![image]("./../asset/steam-android.gif)
+
 ## Getting started
 
 `$ npm install react-native-steam-card --save`
