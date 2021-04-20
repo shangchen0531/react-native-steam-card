@@ -1,7 +1,7 @@
 
 # react-native-steam-card
 
-## Demo in android and ios
+## Demo in android
 ![image](https://github.com/shangchen0531/poet-liyu/blob/master/image/steam2.gif)
 
 ## Getting started
@@ -10,7 +10,7 @@
 
 or
 
-`yarn add react-native-steam-card`
+`$ yarn add react-native-steam-card`
 
 ### Mostly automatic installation
 
@@ -47,4 +47,10 @@ const styles = StyleSheet.create({
 
 export default App;
 ```
-  
+
+## Configurable props
+|  Property  | Type  | Default | Description |
+|  ----  |  ----  |  ----  |  ----  |
+|  source  | ImageSource  | `Must`  | Source of image. |
+|  ratio   | Number | 0.8 | The scale value of image inside the view when hovering. |
+| style | View.style | - | Style of image. |
