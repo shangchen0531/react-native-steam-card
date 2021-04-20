@@ -2,7 +2,7 @@
 # react-native-steam-card
 
 ## Demo in android and ios
-![image](https://github.com/shangchen0531/poet-liyu/blob/master/image/steam2.gif")
+![image](https://github.com/shangchen0531/poet-liyu/blob/master/image/steam2.gif)
 
 ## Getting started
 
