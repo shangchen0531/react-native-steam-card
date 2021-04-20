@@ -2,17 +2,25 @@
 {
   "name": "react-native-steam-card",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Steam Trading Card Hover Effect",
+  "main": "SteamCard.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "react-native"
+    "react-native",
+    "Steam trading card effect",
+    "Steam card",
+    "Hover effect"
   ],
-  "author": "",
-  "license": "",
+  "author": "shangchen",
+  "license": "MIT",
   "peerDependencies": {
     "react-native": "^0.41.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shangchen0531/react-native-steam-card.git"
+  },
+  "bugs": "https://github.com/shangchen0531/react-native-steam-card/issues"
 }
